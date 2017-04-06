@@ -4,6 +4,8 @@
 
 _(add items here for easier creation of next log entry)_
 
+- Pass through unrecognised key events to input, allowing users to continue typing when they are focusing an option.
+
 ## 0.3.5 - 2017-04-06
 
 - Don't prepopulate `defaultValue` in `enhanceSelectElement`.
